@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project showcases a **Sensor-Driven Irrigation System** that was designed and successfully simulated using Tinkercad, an online simulation platform.
+This project showcases a **Sensor-Driven Irrigation System** that was designed and successfully simulated using Tinkercad, an online simulation platform and also on Hardware.
 
 ## Project Description
 
