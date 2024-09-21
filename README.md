@@ -43,15 +43,3 @@ For the implementation details, please refer to the following link:
 ## Note
 
 The circuit has also been implemented on an Arduino hardware kit and functioned as designed, using the Arduino IDE for software development.
-
-## How to Use
-
-1. **Setup**: Connect the components as per the circuit diagram.
-2. **Upload Code**: Upload the provided Arduino code to the Arduino Uno.
-3. **Adjust Settings**: Use the potentiometer to set the desired moisture level.
-4. **Monitor**: Observe the LCD for moisture and temperature readings.
-5. **Operation**: The system will automatically water the plants based on the moisture sensor readings.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
