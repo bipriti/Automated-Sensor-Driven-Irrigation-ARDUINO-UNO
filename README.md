@@ -38,6 +38,6 @@ The circuit design was created using Tinkercad, where simulations were conducted
 ---
 
 ## NOTE:-
-The circuit has also been implemented on Hardware kit of ARDUINO and it functioned as designed and the software used was ARDUINO IDE. 
+The circuit has also been implemented on ARDUINO Hardware kit and it functioned as designed and the software used was ARDUINO IDE. 
 
 ---
